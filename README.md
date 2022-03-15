@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gabriel-Tapes
+- 👀 I’m interested in learning a bit more every day
+- 🌱 I’m currently learning computacional math
+- 💞️ I’m looking to collaborate on anything that I can be useful
+- 📫 How to reach me gabrielsouza.iacs@gmail.com
