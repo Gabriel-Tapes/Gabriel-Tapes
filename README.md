@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on anything that I can be useful
 - 📫 How to reach me gabrielsouza.iacs@gmail.com
 
-<center>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Tapes&show_icons=true&theme=onedark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tapes&layout=compact&theme=onedark"/>
-</center>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Tapes&show_icons=true&theme=onedark"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Tapes&layout=compact&theme=onedark"/>
